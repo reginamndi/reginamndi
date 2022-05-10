@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @reginamndi
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity & C#
-- 💞️ I’m not looking for anyone.
+- 🌱 Currently learning Unity & C#
 - 📫 How to reach me : reginamndi@gmail.com and my Twitter is @flyinaebottle
 
 <!---
